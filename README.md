@@ -31,9 +31,9 @@
 ### Prerequisites
 - Node.js 18+ & npm
 - Python 3.9+
-- [OpenRouter API Key](https://openrouter.ai/) (free)
+- (https://openrouter.ai/) (free)
 
 ### 1. Clone & Setup
 ```bash
-git clone https://github.com/yourusername/juily-ai-portfolio.git](https://github.com/juiilly/ai-portfolio.git
+git clone https://github.com/juiilly/ai-portfolio.git
 cd ai-portfolio
