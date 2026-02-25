@@ -25,10 +25,10 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "http://localhost:3000",
-        "https://*.app.github.dev",  # GitHub Codespaces
-        "https://glorious-trout-jj7qj6rqp6cqq4x-8000.app.github.dev",  # Your specific URL
-        "*",  # For development
+        "ai-portfolioo-ni0y33xox-juiillys-projects.vercel.app",  # Your Vercel URL
+        "https://*.vercel.app",  # All Vercel previews
+        "https://*.trycloudflare.com",  # Cloudflare tunnels
+        "*",  # Development
     ],
     allow_credentials=True,
     allow_methods=["*"],
