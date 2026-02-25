@@ -36,4 +36,4 @@
 ### 1. Clone & Setup
 ```bash
 git clone https://github.com/yourusername/juily-ai-portfolio.git](https://github.com/juiilly/ai-portfolio.git
-cd juily-ai-portfolio
+cd ai-portfolio
