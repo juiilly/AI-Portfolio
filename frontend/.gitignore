@@ -1,0 +1,31 @@
+cd /workspaces/ai-portfolio
+
+cat > .gitignore << 'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+*.db
+*.sqlite3
+.env
+
+# Node
+node_modules/
+dist/
+.npm
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Secrets
+*.key
+*.pem
+EOF
